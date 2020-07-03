@@ -1,5 +1,5 @@
 const express = require('express');
-const cors = require('cores');
+const cors = require('cors');
 const routes = require('./routes'); /*importando rotas de routes.js; ./ referencia que routes.js
                                      está na mesma pasta que o index.js */
 
